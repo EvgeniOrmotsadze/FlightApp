@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "511161059915",
+    "firebase_url": "https://flight-agent-d4d34.firebaseio.com",
+    "project_id": "flight-agent-d4d34",
+    "storage_bucket": "flight-agent-d4d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511161059915:android:52386e74e7991830",
+        "android_client_info": {
+          "package_name": "agent.flight.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511161059915-cc7hipudaehc14af6priigmf4vk8lotm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0_4ElKIB6qWupirBcxHCQHeQVYbQ7qc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

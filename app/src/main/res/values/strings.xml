@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">flight-agent.ru</string>
+    <string name="default_notification_channel_id">flight-agent.ru</string>
+</resources>
+
